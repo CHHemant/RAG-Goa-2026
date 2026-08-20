@@ -10,3 +10,5 @@ qdrant/
 ingestion/hintrain.parquet
 
 *.wav
+
+*.wav
