@@ -7,3 +7,4 @@ qdrant/
 *.log
 .vscode/
 *.parquet*.wav
+ingestion/hintrain.parquet
