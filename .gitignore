@@ -1,0 +1,9 @@
+.env
+.venv/
+embedding-service/.venv/
+__pycache__/
+*.pyc
+qdrant/
+*.log
+.vscode/
+*.parquet
