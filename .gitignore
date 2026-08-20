@@ -8,3 +8,5 @@ qdrant/
 .vscode/
 *.parquet*.wav
 ingestion/hintrain.parquet
+
+*.wav
