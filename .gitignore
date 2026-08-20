@@ -6,4 +6,4 @@ __pycache__/
 qdrant/
 *.log
 .vscode/
-*.parquet
+*.parquet*.wav
